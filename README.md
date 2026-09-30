@@ -4,7 +4,7 @@ A one-button HTML5 timing game. A block slides back and forth above the tower; d
 
 ## Play
 
-Open `index.html` in a browser. No build step, no dependencies.
+Open `public/index.html` in a browser. No build step, no dependencies.
 
 - **Click / tap / Space / Enter** — drop the block
 - **M** — toggle sound
